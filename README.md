@@ -1,3 +1,2 @@
 # Calculator
-This is just normal caculator website
-
+This is just normal caculator website app
